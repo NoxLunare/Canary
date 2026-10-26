@@ -1,3 +1,115 @@
+# ----------------------------
+# Unreal Engine generated files
+# ----------------------------
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Plugin generated files
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# ----------------------------
+# Visual Studio / IDE
+# ----------------------------
+
+.vs/
+.vscode/
+.idea/
+
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Visual Studio user-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+
+# ----------------------------
+# Unreal generated project files
+# ----------------------------
+
+*.xcodeproj
+*.xcworkspace
+Makefile
+
+# ----------------------------
+# Logs / temporary files
+# ----------------------------
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ----------------------------
+# OS files
+# ----------------------------
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ----------------------------
+# Rider
+# ----------------------------
+
+.idea/
+*.sln.iml
+
+# ----------------------------
+# VS Code
+# ----------------------------
+
+.vscode/
+
+# ----------------------------
+# Unreal Build Tool
+# ----------------------------
+
+Engine/Programs/UnrealBuildTool/
+LocalBuilds/
+
+# ----------------------------
+# Crash reports
+# ----------------------------
+
+Saved/Crashes/
+Saved/Logs/
+
+# ----------------------------
+# Packaged builds
+# ----------------------------
+
+Builds/
+Packaged/
+StagedBuilds/
+
+# ----------------------------
+# Optional local developer files
+# ----------------------------
+
+*.local
+.env
+.env.*
+
 # Visual Studio 2015 user specific files
 .vs/
 
