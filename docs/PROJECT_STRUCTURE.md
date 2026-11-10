@@ -3,7 +3,6 @@
 Poniżej znajduje się struktura folderów projektu wraz z opisem ich przeznaczenia.
 
 ```text
-
 Content/
 └── Crystalborne/
     │
@@ -155,5 +154,4 @@ Content/
         ├── Props/                      # Blueprinty przedmiotów i elementów otoczenia
         ├── SetDressing/                # Zestawy dekoracji i kompozycje środowiskowe
         └── WorldActors/                # Pozostałe aktory związane ze światem gry
-
-        ```
+```
