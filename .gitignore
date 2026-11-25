@@ -48,6 +48,12 @@ x86/
 Makefile
 
 # ----------------------------
+# UndergroundTunnel Asset // Temp setting
+# ----------------------------
+
+/Content/UndergroundTunnel
+
+# ----------------------------
 # Logs / temporary files
 # ----------------------------
 
